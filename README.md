@@ -69,6 +69,10 @@ Quote glob patterns to prevent shell expansion. Patterns are case-sensitive and 
 
 ## Share context in three steps
 
+**Using OpenCode?** Install the optional [`/repomap` custom command](integrations/opencode/README.md)
+to include the project tree in a planning prompt. It uses the existing command system;
+no OpenCode source changes are required.
+
 1. Select only the files relevant to your question with `--include` and `--exclude`.
 2. Generate `context.md` and review it locally for confidential content.
 3. Attach or paste it into your preferred AI tool along with your question.
