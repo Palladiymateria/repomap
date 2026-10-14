@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">RepoMap</title><desc id="desc">Your project. One readable context file. Local, focused, ready to share.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111628"/><stop offset="1" stop-color="#233858"/></linearGradient></defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="60" y="64" font-size="14" letter-spacing="4" fill="#a8baff">LESS COPYING. MORE CONTEXT.</text>
+<text x="54" y="165" font-size="88" font-weight="700" fill="#f5f7ff">RepoMap<tspan fill="#89e4c0">_</tspan></text>
+<text x="60" y="223" font-size="27" fill="#c6d2e9">Your project. One readable context file.</text>
+<text x="60" y="303" font-size="15" letter-spacing="2" fill="#89e4c0">LOCAL CLI  /  ZERO DEPENDENCIES  /  OPEN SOURCE</text>
+</g>
+<g fill="none" stroke="#748fc0" stroke-width="3"><path d="M840 110v140m0-105h80m-80 70h80m145-55v50"/></g>
+<g fill="#1c2b43" stroke="#89e4c0" stroke-width="2"><rect x="805" y="76" width="70" height="38" rx="8"/><rect x="920" y="125" width="170" height="40" rx="8"/><rect x="920" y="195" width="170" height="40" rx="8"/></g>
+<g font-family="Consolas,monospace" font-size="16" fill="#e0e8f6"><text x="822" y="101">src</text><text x="938" y="151">app.py</text><text x="938" y="221">utils.py</text></g>
+<text x="920" y="292" font-family="Consolas,monospace" font-size="19" fill="#89e4c0">→ context.md</text>
+</svg>
